@@ -1,0 +1,13 @@
+name = "TenshiLib"
+filename = "tenshilib-1.19-1.6.13-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bc293e10173a9c4efb4ae3fdb9a55d79fba9a53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4088430
+project-id = 312040

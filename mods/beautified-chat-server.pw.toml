@@ -1,0 +1,13 @@
+name = "Beautified Chat [Server] (Forge)"
+filename = "beautifiedchatserver_1.19.2-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "285a67724e4c940bfa1fc496133e040881d661e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3993694
+project-id = 514796

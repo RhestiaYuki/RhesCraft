@@ -1,0 +1,13 @@
+name = "Click Machine"
+filename = "ClickMachine-1.19.2-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c4f2f985645313f23bbf5f0263c67ec660ee028"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4028819
+project-id = 298275

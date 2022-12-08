@@ -1,0 +1,13 @@
+name = "Bottled Air (Forge)"
+filename = "bottledair_1.19.2-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88ead83d510bd76eedd20780c83fcd88ec8e13c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4007463
+project-id = 514444

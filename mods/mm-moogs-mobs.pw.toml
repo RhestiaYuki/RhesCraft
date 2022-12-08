@@ -1,0 +1,13 @@
+name = "MM - Moog's Mobs"
+filename = "moogsmobs-1.0.5-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab259a7c50f6acc8e702018d97f066903e65a941"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4081321
+project-id = 688927

@@ -1,0 +1,13 @@
+name = "Better Tridents"
+filename = "BetterTridents-v4.0.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52e7c3656a2c0b1e919cd5766dc1cebdedfb7d6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3962450
+project-id = 666941

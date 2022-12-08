@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "DiagonalFences-v4.2.3-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd727af6ad38d5ea693ece59e474ec14b224f169"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4026713
+project-id = 458048

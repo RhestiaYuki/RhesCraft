@@ -1,0 +1,13 @@
+name = "Vacuum Chest"
+filename = "vacuumchest-4.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23399bcb4283ae331c526b6297be49c9f3fc04a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4024547
+project-id = 435084

@@ -1,0 +1,13 @@
+name = "Death Finder"
+filename = "DeathFinder-v4.1.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c6819497206416e3cebdc363dc4375313b93849"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4029556
+project-id = 327108

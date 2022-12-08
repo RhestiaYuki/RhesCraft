@@ -1,0 +1,13 @@
+name = "Softer Hay Bales (Forge)"
+filename = "softerhaybales_1.19.2-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63c826cc576ccf7ebc13ee3032e225a7a032f589"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920812
+project-id = 344178

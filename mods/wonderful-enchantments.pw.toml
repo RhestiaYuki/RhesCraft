@@ -1,0 +1,13 @@
+name = "Majrusz's Enchantments"
+filename = "majruszs-enchantments-1.19.2-1.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94c18f0ad79d46d13888398c03da600c211a20a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4061620
+project-id = 417439

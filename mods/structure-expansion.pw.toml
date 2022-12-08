@@ -1,0 +1,13 @@
+name = "Structure Expansion"
+filename = "structure-expansion-1901.1.1-build.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "397959d40dae774da2c79984f7e0e069aec19695"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3909814
+project-id = 398430

@@ -1,0 +1,13 @@
+name = "Stats Keeper (Forge)"
+filename = "StatsKeeper-1.19.2-8.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bdd0630fd31fdf36c7a5575ac2e84853b24fec1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4025809
+project-id = 258168

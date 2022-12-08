@@ -1,0 +1,13 @@
+name = "Hidden Recipe Book (Forge)"
+filename = "hiddenrecipebook_1.19.2-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "352001cdf451a6580b5a39999cbf15232aab9315"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4140072
+project-id = 459727

@@ -1,0 +1,13 @@
+name = "Portable Tanks"
+filename = "portabletanks-1.1.6-forge-mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b418b0af43abf3237c00f887be20913a99ac9d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4024686
+project-id = 503920

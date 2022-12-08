@@ -1,0 +1,13 @@
+name = "Landmines"
+filename = "landmines-1.0.4b-forge-mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41d37f79e61e4e929e88003f04c5332a958fa3b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871953
+project-id = 499336

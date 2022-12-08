@@ -1,0 +1,13 @@
+name = "Scaling Health"
+filename = "ScalingHealth-1.19.2-7.0.0+6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7dbbf8f276ea28f1b473ac21378cba56b80042a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943340
+project-id = 248027

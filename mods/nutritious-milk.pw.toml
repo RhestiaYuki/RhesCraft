@@ -1,0 +1,13 @@
+name = "Nutritious Milk (Forge)"
+filename = "nutritiousmilk_1.19.2-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b1b6a6f3e0dddaa24a073d499ac5e731ada04af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4000718
+project-id = 345184

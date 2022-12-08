@@ -1,0 +1,13 @@
+name = "Fruit Trees 🍊"
+filename = "FruitTrees-1.19.2-forge-6.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c51e644b0f0be237089a353921904828dc043a01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4086403
+project-id = 355467

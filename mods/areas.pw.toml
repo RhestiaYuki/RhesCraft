@@ -1,0 +1,13 @@
+name = "Areas (Forge)"
+filename = "areas_1.19.2-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "603494aaffb67f5f07df1ad2cf93ed6e60f13f79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4008529
+project-id = 391701

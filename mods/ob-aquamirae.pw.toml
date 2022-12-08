@@ -1,0 +1,13 @@
+name = "Aquamirae"
+filename = "aquamirae-4.6.api9-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83379bb0c38a166da2e0dccb0a57fe261aa8fcae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4131789
+project-id = 536254

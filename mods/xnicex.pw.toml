@@ -1,0 +1,13 @@
+name = "xNICEx"
+filename = "nice-1.19-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dac4dec9015dbbb704375efb45117e0d07e12c38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3900503
+project-id = 255038

@@ -1,0 +1,13 @@
+name = "The Gold Rush"
+filename = "The-Gold-Rush-1.2.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba673b4708cae768ba757f0fd6da3f56dbcc39c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4088453
+project-id = 608469

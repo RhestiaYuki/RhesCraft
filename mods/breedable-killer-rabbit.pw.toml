@@ -1,0 +1,13 @@
+name = "Breedable Killer Rabbit (Forge)"
+filename = "breedablekillerrabbit_1.19.2-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79d24e8cd320cdd2a180e1c738a9ec5470839525"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920957
+project-id = 342154

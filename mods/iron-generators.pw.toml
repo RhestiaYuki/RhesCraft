@@ -1,0 +1,13 @@
+name = "Iron Generators [Forge]"
+filename = "IronGenerators-3.0.0-beta-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80300b4749f4b5e881a2a7aadd1425e6c22b9219"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4021209
+project-id = 446489

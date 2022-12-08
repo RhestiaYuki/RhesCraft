@@ -1,0 +1,13 @@
+name = "ZeroCore 2"
+filename = "ZeroCore2-1.19-2.1.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2086b49d8bf940ca1cabec6ed05772ba258a1ab6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4016175
+project-id = 247921

@@ -1,0 +1,13 @@
+name = "Colossal Chests"
+filename = "ColossalChests-1.19.2-1.8.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f09600810542cfe840b147307566c2c495e29d15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929872
+project-id = 237875

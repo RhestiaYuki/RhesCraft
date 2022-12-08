@@ -1,0 +1,13 @@
+name = "Terraqueous"
+filename = "terraqueous-1.19-1.10.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b73073a631738d06f670b1a9add9c60114f8770"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4055971
+project-id = 244870

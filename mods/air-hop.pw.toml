@@ -1,0 +1,13 @@
+name = "Air Hop"
+filename = "AirHop-v4.2.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b32a65424c65f05d7af4442bd1557de276c95dca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3961936
+project-id = 323071

@@ -1,0 +1,13 @@
+name = "Bottle Your Xp (Forge)"
+filename = "bottleyourxp_1.19.2-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f70cc832ef10dd025f376533638a946bcaa07130"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920960
+project-id = 344020

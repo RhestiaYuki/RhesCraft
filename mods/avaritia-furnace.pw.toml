@@ -1,0 +1,13 @@
+name = "Avaritia Furnace"
+filename = "AvaritiaFurnace-4.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2503ce7312f88c57011ab1ad919b280974eae51c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4058608
+project-id = 416599

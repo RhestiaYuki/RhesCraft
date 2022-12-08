@@ -1,0 +1,13 @@
+name = "Straw Statues"
+filename = "StrawStatues-v4.0.8-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e254663597da8d6ac57c2d139edacf0ce78a1c49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4135448
+project-id = 682564
