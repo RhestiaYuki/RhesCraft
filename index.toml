@@ -531,11 +531,6 @@ hash = "eab82f501189ae9f9365ced0ec81c8cda05088a4c7c5e40b2c145f032fddc456"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "e186b52cfcf099d3cbe4992268e09bf7cdfa6e281837808a086ee5009ffd35f1"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "d0db5554ad9f6da3788837b15ac7f026513ad1bef749936811fac19875a7db7d"
 metafile = true
