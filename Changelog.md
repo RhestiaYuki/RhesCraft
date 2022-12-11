@@ -1,6 +1,4 @@
-#### V1.1.1 (A)
-
-###### *Alpha versions are untested/undergoing testing and may break worlds when updated*
+#### V1.1.1 (R)
 
 - Updated Forge version to 43.1.55 as [AE2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) requires it.
 - Removed [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify) as it was not loading properly despite ClothConfig API dependency existing. Previous version of debugify was a Fabric version which didn't trigger any errors but was not loaded in anyway.
