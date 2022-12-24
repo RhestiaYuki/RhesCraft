@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CurseForgeIcon.png"
-hash = "29f313928a807f8f9a64d0f9178232e1be4ac0f5bb95d38a3f1767f39abdbf22"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "892bcd47a37796deb65f5d516584e3ed83ba3c1fa494eab364304009c7d05ed8"
 metafile = true
