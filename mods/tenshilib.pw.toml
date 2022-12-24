@@ -1,13 +1,13 @@
 name = "TenshiLib"
-filename = "tenshilib-1.19-1.6.13-forge.jar"
+filename = "tenshilib-1.19-1.6.14-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6bc293e10173a9c4efb4ae3fdb9a55d79fba9a53"
+hash = "d2fb5604f460c18b62aba3af3834e0ff2179b1ce"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4088430
+file-id = 4216161
 project-id = 312040

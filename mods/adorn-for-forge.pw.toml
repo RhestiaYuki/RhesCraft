@@ -1,13 +1,13 @@
 name = "Adorn (Forge)"
-filename = "Adorn-3.7.0+1.19.2-forge.jar"
+filename = "Adorn-3.8.0+1.19.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3566d556747dc62c88d27d41f099e0676fc41af4"
+hash = "afa6a123015df39d9eb4253925b03f0c8b633c7d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4070371
+file-id = 4160112
 project-id = 438784

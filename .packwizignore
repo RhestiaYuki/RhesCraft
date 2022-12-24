@@ -3,7 +3,7 @@
 
 # Exclude README and my Changelog file
 /README.md
-/Changelog.md
+/v1-Changelog.md
 
 # Exclude my IntelliJ files that exists just for my convenience of pushing updates to GitHub
 /.idea/

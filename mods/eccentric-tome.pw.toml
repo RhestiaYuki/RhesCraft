@@ -1,13 +1,13 @@
 name = "Eccentric Tome"
-filename = "eccentrictome-1.19.2-1.9.0.jar"
+filename = "eccentrictome-1.19.2-1.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cfe5bfd446f8f7906d91b58c601ea727ae1fd184"
+hash = "919bbf019513d933159f23657a64ea6e20abb9db"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4085199
+file-id = 4159488
 project-id = 597522
