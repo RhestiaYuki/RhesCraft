@@ -1,4 +1,4 @@
-Link to full changelog history (or easier reading) : [Link](https://github.com/RhestiaYuki/RhesCraft/blob/master/Changelog.md)
+Link to full changelog history (or easier reading) : [Link](https://github.com/RhestiaYuki/RhesCraft/blob/master/v1-Changelog.md)
 
 #### V1.2.0 (A)
 
