@@ -791,6 +791,11 @@ hash = "43ebb685c3b629c25418da92d2e95255fadfc0a47b3e7ac7ec01b560b32ea7db"
 metafile = true
 
 [[files]]
+file = "mods/forgebrainlib.pw.toml"
+hash = "c5158835fdba9b4587c0dd93087e0e69814f0e006a25dc8de2069529bfba67da"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "9e2fe4686c066602a951845ff12d21ea5f40baca07fd83e21de1fae1a9e5fc84"
 metafile = true
