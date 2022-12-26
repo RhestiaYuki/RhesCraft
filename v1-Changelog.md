@@ -1,5 +1,12 @@
 Link to full changelog history (or easier reading) : [Link](https://github.com/RhestiaYuki/RhesCraft/blob/master/v1-Changelog.md)
 
+#### V1.2.2 (A)
+
+###### *Alpha versions are untested/undergoing testing and may break worlds when updated*
+
+- Added the Occultism dependency [ForgeBrainLib](https://www.curseforge.com/minecraft/mc-mods/forgebrainlib)
+- Downgraded back Forge to 43.1.65 due to some mods causing [launch issues](https://forums.minecraftforge.net/topic/118938-forge-4320-minecraft-1192-exception-in-thread-main-javalangillegalargumentexception-10-119-empty-pre-release/)  along with some mods that had dependency on Forge 43.2.0. 
+
 #### V1.2.1 (A)
 
 ###### *Alpha versions are untested/undergoing testing and may break worlds when updated*

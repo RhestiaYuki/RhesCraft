@@ -1,13 +1,13 @@
 name = "RhesCraft"
 author = "Rhestia"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8fd5af462a0fdc4c281f92dd0f4f32a3fdb43b1652c1877b6257652e2417922d"
+hash = "5b68e7509b8157dda23e851ac63327ce9e97e27e44eaaf2006e19693bd99c6b8"
 
 [versions]
-forge = "43.2.0"
+forge = "43.1.65"
 minecraft = "1.19.2"

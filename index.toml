@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ac9b3c98bdb67f1e72b5ab5d207fab6fad251be4e48b5c0a7e2f689209c7b897"
+hash = "cd681b8802c4ca5a2d9c385dcbd2f77e331794a1dead878b70384cc0a50011a4"
 metafile = true
 
 [[files]]
@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
+hash = "10f3b57f630b0521a9104790cb481ca2e29b62016c5c939c437f55f2c442b1c7"
 metafile = true
 
 [[files]]
