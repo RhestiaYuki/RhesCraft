@@ -1,6 +1,10 @@
 Link to full changelog history (or easier reading) : [Link](https://github.com/RhestiaYuki/RhesCraft/blob/master/v1-Changelog.md)
 
-#### V1.2.3 (A)
+#### V1.2.4 (R)
+
+- Removed [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated) as it causes a rendering crash.
+
+#### V1.2.4 (A)
 
 ###### *Alpha versions are untested/undergoing testing and may break worlds when updated*
 
