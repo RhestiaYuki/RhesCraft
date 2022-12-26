@@ -1026,11 +1026,6 @@ hash = "bbda27d3e070cbe2eec4740b93222694f0a86f50f74edde5f5b23d4c0f13f4c0"
 metafile = true
 
 [[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
-metafile = true
-
-[[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "18c83961428729d4cd6b90ed1f822c89c55b963df3ad85d076800287091524f1"
 metafile = true

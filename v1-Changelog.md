@@ -1,5 +1,12 @@
 Link to full changelog history (or easier reading) : [Link](https://github.com/RhestiaYuki/RhesCraft/blob/master/v1-Changelog.md)
 
+#### V1.2.3 (A)
+
+###### *Alpha versions are untested/undergoing testing and may break worlds when updated*
+
+- Removed [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) as it was the cause for the bellow issue.
+- Since the below issue is resolved, changing Forge to version 43.2.1
+
 #### V1.2.2 (A)
 
 ###### *Alpha versions are untested/undergoing testing and may break worlds when updated*

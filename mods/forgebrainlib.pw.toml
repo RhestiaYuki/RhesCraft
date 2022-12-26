@@ -1,0 +1,13 @@
+name = "ForgeBrainLib"
+filename = "forgebrainlib-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68b584dfbcb92bcee3841b5c0393e49b9b774eaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4216150
+project-id = 754870
